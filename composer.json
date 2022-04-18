@@ -1,0 +1,10 @@
+{
+    "name": "fichtali/duplicate-post",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pentiminax\\DuplicatePost\\": "src/"
+        }
+    },
+    "require": {}
+}
